@@ -1,0 +1,2 @@
+# theMandelbrotSet
+Множество Мандельброта
